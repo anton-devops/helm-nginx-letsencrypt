@@ -1,0 +1,17 @@
+# Default Values for my Helm Chart
+
+container:
+  image: dockeraxer/0004_kubernetes_playground
+
+replicaCount: 1
+
+domainName: example.com
+
+namespase:
+  cert: default
+
+email: akhramovich.anton@gmail.com
+
+port:
+  appPort: 8080
+  ingressPort: 80
