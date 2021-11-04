@@ -5,10 +5,7 @@ container:
 
 replicaCount: 1
 
-domainName: example.com
-
-namespase:
-  cert: default
+domainName: dgadsgsdfgfdfh.ddns.net
 
 email: akhramovich.anton@gmail.com
 
