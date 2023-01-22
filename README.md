@@ -19,7 +19,7 @@
 
 - клонипуем репозиторий и заходим в директорию helm-nginx-letsencrypt:
 
-		https://github.com/manbojack/helm-nginx-letsencrypt.git
+		git clone https://github.com/manbojack/helm-nginx-letsencrypt.git
 		cd helm-nginx-letsencrypt/
 
 - В файле ./helm/values.yaml меняем доменное имя example.com на своё. Также меняем image и appPort на свои, если необходимо
